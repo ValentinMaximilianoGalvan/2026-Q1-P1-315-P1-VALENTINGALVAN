@@ -1,1 +1,1 @@
-print("hola,estoy probando si funciona bien jajax2")
+print("hola,estoy probando si funciona y creo que esta atrasado")
